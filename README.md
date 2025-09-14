@@ -8,10 +8,10 @@ The dashboard provides interactive insights into sales trends based on state and
 
 ## ✅ Features
 - 📈 Interactive visualizations with filters and slicers
-- 🏷️ Merchant-wise sales performance
-- 📊 Product performance metrics
-- 📅 Time-based analysis (yearly, monthly trends)
-- 🔎 Customer segmentation insights
+- 🏷️State and city wise sales performance
+- 📊 Product performance 
+- 📅 Time-based analysis monthly trends
+- 🔎 Payment mode insights
 
 
 ## 📁 Dataset
