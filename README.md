@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 This project is a **Merchant Sales Dashboard** developed using **Power BI** and **Excel** to analyze and visualize of merchants.  
-The dashboard provides interactive insights into sales trends, product performance, and customer behavior, helping businesses make data-driven decisions.
+The dashboard provides interactive insights into sales trends based on state and month, product performance, and customer Name, helping businesses make data-driven decisions.
 
 ---
 
