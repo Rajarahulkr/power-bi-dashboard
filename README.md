@@ -15,12 +15,13 @@ The dashboard provides interactive insights into sales trends, product performan
 
 
 ## 📁 Dataset
-- **Data Set**: Details, Order
+- **Data Set**: Details, Orders
 - **Data Includes**:  
-    - Merchant ID  
-    - Transaction details (Order ID, Date, Amount)  
-    - Product details  
-    - Customer demographics  
+    - order ID  
+    - Amount
+    - city  
+    - customer name
+    - etc.......... 
 
 
 
